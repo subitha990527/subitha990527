@@ -1,4 +1,4 @@
-![logo](https://github.com/subitha990527/Subitha_Sunil/blob/main/GitHubBanner.png)
+![logo](https://github.com/subitha990527/subitha990527/blob/main/GitHubBanner.png)
 <h1 align="center">Hi 👋, I'm SUBITHA V S</h1>
 <h3 align="center">Back-End Developer | Node.js | Express.js | MongoDB | JavaScript Enthusiast</h3>
 
