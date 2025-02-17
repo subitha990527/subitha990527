@@ -6,8 +6,8 @@
 
 <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
-- 🌱 I’m currently learning **Node.js, JavaScript, Express.js, and MongoDB to enhance my skills as a web developer.**
-- 📚 Quick learner, always adapting to new technologies and staying ahead in a dynamic industry.
+- 🌱 I’m currently learning **Node.js, JavaScript, Express.js, and MongoDB** to enhance my skills as a web developer.
+- 📚 Quick learner, always adapting to new technologies and staying ahead in a dynamic industry. 
 - 🌟 Continuously exploring innovative tools and technologies to level up my career.
 - 💻 Showcasing skills through meaningful projects that challenge and inspire growth.
 
