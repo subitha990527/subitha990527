@@ -7,7 +7,7 @@
 
 ## 🌸 About Me
 
-- 🌱 I’m currently learning **Node.js, JavaScript, Express.js, and MongoDB** to enhance my skills as a web developer.
+- 🌱 I’m currently learning **Node.js, JavaScript, Express.js, React.js and MongoDB** to enhance my skills as a web developer.
 
 <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
@@ -16,7 +16,7 @@
 - 🌟 Continuously exploring innovative tools and technologies to level up my career.
 - 💻 Showcasing skills through meaningful projects that challenge and inspire growth.
 
-- 💬 Ask me about **NodeJS, JavaScript, MongoDB, ExpressJS**
+- 💬 Ask me about **NodeJS, JavaScript, MongoDB, ReactJs ExpressJS**
 
 - 📫 How to reach me **subithasunilvs99@gmail.com**
 
@@ -24,13 +24,13 @@
 
 ## 🌐 My Portfolio
 
-🔗 **https://subithavs.vercel.app/**  
+🔗 **https://subitha-vs.vercel.app/**  
 
 ---
 
 ## 📄 Resume
 
-📌 [View My Resume](https://drive.google.com/file/d/1jDOF8tufOkcWGQAt4vIZLZe-uvrNEUok/view?usp=drive_link)
+📌 [View My Resume](https://drive.google.com/file/d/1tcPbhwiIb6wxRzaxVc9VIBNbniIn7xJW/view?usp=drive_link)
 
 ---
 
