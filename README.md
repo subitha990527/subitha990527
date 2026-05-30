@@ -16,7 +16,7 @@
 - 🌟 Continuously exploring innovative tools and technologies to level up my career.
 - 💻 Showcasing skills through meaningful projects that challenge and inspire growth.
 
-- 💬 Ask me about **NodeJS, JavaScript, MongoDB, ReactJs ExpressJS**
+- 🤝 Open to collaboration and exciting development opportunities.
 
 - 📫 How to reach me **subithasunilvs99@gmail.com**
 
