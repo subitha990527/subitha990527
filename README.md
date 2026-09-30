@@ -30,7 +30,7 @@
 
 ## 📄 Resume
 
-📌 [View My Resume](https://drive.google.com/file/d/1tcPbhwiIb6wxRzaxVc9VIBNbniIn7xJW/view?usp=drive_link)
+📌 [View My Resume](https://drive.google.com/file/d/1y8waLSri7nE60Val7qskalOyzhKzLsL1/view?usp=sharing)
 
 ---
 
